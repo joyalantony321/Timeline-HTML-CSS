@@ -7,7 +7,8 @@ Folder structure is organized for clarity, and styles are separated into styles.
 📂 Folder Structure
 timeline-app/
 │
-├── index.html      # Main HTML structure
-├── styles.css      # Styling and responsiveness
-└── images/         # Images used in timeline
-    └── computer.png
+├── index.html        # Main HTML structure
+├── styles.css        # CSS for layout, colors, and responsiveness
+├── README.md         # Project description
+└── images/           # Image assets
+    └── computer.png  # Sample timeline image
